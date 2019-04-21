@@ -1,0 +1,64 @@
+body {
+  background-color:lightblue;
+}
+
+h1 {
+  color:#1020c595;
+  font-size: 4vw;
+}
+#byLine{
+   font-size: 35px;
+   font-style: italic;
+}
+nav {
+  display: block;
+}
+footer{
+    font-size: 20px
+}
+#copyright{
+    font-size: 0.6em
+    
+}
+#important {
+    font-weight: bold;
+}
+
+.navItem {
+    color: green;
+}
+.navItem:hover {
+    color: rgb(240, 10, 20);
+    font-size: 25px;
+}
+ol li{
+    font-family: 'Dokdo', cursive;
+}
+h2, h3{
+    font-family: 'Roboto', sans-serif;
+    
+}
+h4{
+    font-size: .9rem
+}
+figure { 
+    display: inline-block;
+}
+#capy1{
+    width: 400px;
+}
+#capy2{
+    width: 40%;
+}
+#capy3{
+    width: 10vh;
+}
+.pics{
+  display: inline-grid;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+#intro{
+    text-align: center;
+}
